@@ -19,7 +19,7 @@ Ceci est une application de dessin développée pour Android qui permet aux util
 ### 🔧 Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votreutilisateur/drawing-app.git
+   git clone https://github.com/amine-bajji/android-project.git
    ```
 2. Ouvrez le projet dans Android Studio.
 3. Compilez et exécutez l'application sur un appareil Android ou un émulateur.
