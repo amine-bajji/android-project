@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Flower meadow template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M50,350 L50,300
+        M30,300 C20,280 80,280 70,300
+        M40,280 C30,260 90,260 80,280
+        
+        M150,350 L150,320
+        M130,320 C120,300 180,300 170,320
+        M140,300 C130,280 190,280 180,300
+        
+        M250,350 L250,310
+        M230,310 C220,290 280,290 270,310
+        M240,290 C230,270 290,270 280,290
+        
+        M350,350 L350,330
+        M330,330 C320,310 380,310 370,330
+        M340,310 C330,290 390,290 380,310
+        
+        M0,350 C50,330 100,350 150,330 C200,350 250,330 300,350 C350,330 400,350 400,350"/>
+</vector> 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Tree with flowers template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M200,350 L200,250
+        M150,250 C150,200 250,200 250,250
+        M100,200 C100,150 300,150 300,200
+        M80,150 C80,100 320,100 320,150
+        
+        M120,180 C110,170 130,170 120,180
+        M280,180 C270,170 290,170 280,180
+        M160,130 C150,120 170,120 160,130
+        M240,130 C230,120 250,120 240,130
+        M200,100 C190,90 210,90 200,100"/>
+</vector> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Mountain landscape template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M0,250 L100,100 L200,250 L300,150 L400,250
+        
+        M50,250 C75,200 125,200 150,250
+        M250,250 C275,200 325,200 350,250
+        
+        M100,180 C90,170 110,170 100,180
+        M300,200 C290,190 310,190 300,200
+        
+        M0,300 C50,280 100,300 150,280 C200,300 250,280 300,300 C350,280 400,300 400,300"/>
+</vector> 

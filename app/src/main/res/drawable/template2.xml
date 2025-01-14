@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Garden with flowers template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M50,300 L350,300
+        
+        M100,300 L100,250
+        M80,250 C80,230 120,230 120,250
+        M70,230 C70,210 130,210 130,230
+        
+        M200,300 L200,250
+        M180,250 C180,230 220,230 220,250
+        M170,230 C170,210 230,210 230,230
+        
+        M300,300 L300,250
+        M280,250 C280,230 320,230 320,250
+        M270,230 C270,210 330,210 330,230
+        
+        M50,350 C100,330 150,350 200,330 C250,350 300,330 350,350"/>
+</vector> 

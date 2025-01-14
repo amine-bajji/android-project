@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Butterfly in garden template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M200,200 C160,150 160,250 200,200
+        M200,200 C240,150 240,250 200,200
+        
+        M50,350 L50,250
+        M30,250 C30,230 70,230 70,250
+        M20,230 C20,210 80,210 80,230
+        
+        M150,350 L150,280
+        M130,280 C130,260 170,260 170,280
+        M120,260 C120,240 180,240 180,260
+        
+        M250,350 L250,300
+        M230,300 C230,280 270,280 270,300
+        M220,280 C220,260 280,260 280,280
+        
+        M350,350 L350,270
+        M330,270 C330,250 370,250 370,270
+        M320,250 C320,230 380,230 380,250"/>
+</vector> 

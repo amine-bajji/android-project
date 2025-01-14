@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Beach scene template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M0,200 C50,180 100,200 150,180 C200,200 250,180 300,200 C350,180 400,200 400,200
+        
+        M150,150 C170,130 190,130 210,150
+        
+        M50,100 L70,80 L90,100
+        M250,80 L270,60 L290,80
+        
+        M100,300 L100,250 L150,250 L150,300
+        M110,270 L140,270
+        
+        M300,150 C280,130 320,130 300,150
+        
+        M0,350 C50,330 100,350 150,330 C200,350 250,330 300,350 C350,330 400,350 400,350"/>
+</vector> 

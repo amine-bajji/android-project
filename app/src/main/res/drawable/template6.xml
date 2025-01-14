@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+    
+    <!-- Forest scene template -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="
+        M50,350 L50,300
+        M25,300 C25,250 75,250 75,300
+        M0,250 C0,200 100,200 100,250
+        
+        M200,350 L200,250
+        M175,250 C175,200 225,200 225,250
+        M150,200 C150,150 250,150 250,200
+        
+        M350,350 L350,280
+        M325,280 C325,230 375,230 375,280
+        M300,230 C300,180 400,180 400,230
+        
+        M100,150 C90,140 110,140 100,150
+        M300,180 C290,170 310,170 300,180
+        M200,100 C190,90 210,90 200,100"/>
+</vector> 
